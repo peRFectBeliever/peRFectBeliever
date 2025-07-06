@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/perfectbelievr" target="blank"><img src="https://img.shields.io/twitter/follow/perfectbelievr?logo=twitter&style=for-the-badge" alt="perfectbelievr" /></a> </p>
 
-- 🔭 I’m currently working at [Wellsfargo](https://www.wellsfargo.com/)
+- 🔭 I’m currently working at [CBA](https://www.commbank.com.au/)
 
-- 🌱 I’m currently learning **Azure, Kubernetes, Terraform**
+- 🌱 I’m currently learning **JavaScript, ReactJS and NextJS**
 
 - 👯 I’m looking to collaborate on [Ortelius](https://github.com/ortelius/)
 
