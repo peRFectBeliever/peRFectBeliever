@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devendran Nehru</h1>
-<h3 align="center">Test Automation Expert, Devops Engineer, SRE and Multi Cloud learner</h3>
+<h3 align="center">Test Automation Expert, DevSecOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perfectbeliever&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="perfectbeliever" /> </p>
 
