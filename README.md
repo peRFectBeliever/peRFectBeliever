@@ -9,7 +9,7 @@
 
 - 🔭 Actively seeking challenging roles in **Test Automation, DevOps, or Cloud Engineering**
 
-- 🌱 I’m currently learning **Full Stack Development with Java** and ** ML/ AI with Python**
+- 🌱 I’m currently learning **Full Stack Development with Java** and **ML/ AI with Python**
 
 - 👯 A Opensource Contributor(Currently idle) . Visit  [Ortelius](https://github.com/ortelius/) team to start your journey
 
